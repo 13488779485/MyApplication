@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         string = new String("分支master第1次提交");
         string = new String("分支2第1次提交");
         string = new String("分支2第2次提交");
+        string = new String("分支2第3次提交");
 
 
 
